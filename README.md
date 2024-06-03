@@ -1,6 +1,5 @@
-## hi - how are ya?
-
-- my name is jake
+## Hi - how are ya?
+my name is Jake
 - i'm a multimedia artist that's learning how to code
-- this summer i'm doing a web development internship
-- it's for a website that helps STEM students find jobs
+- this summer i'm interning as a web developer
+- for a website that helps STEM students find jobs!
