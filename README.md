@@ -5,8 +5,6 @@ I'm currently interning as a *web developer* for a site that helps STEM students
 
 [my resume](https://github.com/jakebytes/jakebytes/blob/main/resume.md)  
 
-</br>
-
 Some of my **favorite** things:
 <p> &nbsp ☕ &nbsp drinking good coffee </p>
 <p> &nbsp 🍝 &nbsp cooking delicious meals </p>
