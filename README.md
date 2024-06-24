@@ -1,10 +1,14 @@
-### Hey - my name's Jake  
+### Hey - my name's Jake!
 
 I'm a *multimedia artist* that's learning how to code.  
-This summer I'm interning as a **web developer**, for a website that helps STEM students find jobs!
+I'm currently interning as a *web developer* for a site that helps STEM students find jobs!  
 
-Some of my favorite things:
-- drinking *good* coffee ☕
-- cooking delicious meals 🍝
-- going for a hike 🥾
-- playing with my cat 😹
+[my resume](https://github.com/jakebytes/jakebytes/blob/main/resume.md)  
+
+</br>
+
+Some of my **favorite** things:
+<p> &nbsp ☕ &nbsp drinking good coffee </p>
+<p> &nbsp 🍝 &nbsp cooking delicious meals </p>
+<p> &nbsp 🥾 &nbsp going for a hike </p>
+<p> &nbsp 😹 &nbsp playing with my cat </p>
