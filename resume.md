@@ -28,7 +28,7 @@ Summer Internship (2024)
 - Develop front and back-end functionality for the website using HTML/CSS, JavaScript, and PHP.
 - Collaborate with other interns on the use of APIs to enhance the experience of users.
 
-<br/>
+<br>
 
 **Carpenter’s Apprentice** (*among other odd jobs*)  
 *The Overall Guy* | Santa Fe, NM  
@@ -43,8 +43,8 @@ Part-time Assistant (2022–24)
 ### CONTACTS 
 
 **Email**  
-[jhblack27@outlook.com](mailto:jhblack27@outlook.com)
+[jhblack27@outlook](mailto:jhblack27@outlook.com)  
 
 **Links**  
-[LinkedIn](http://www.linkedin.com/in/jakehblack)  
-[GitHub](https://github.com/jakebytes)  
+[Linkedin](http://www.linkedin.com/in/jakehblack)  
+[GitHub](https://github.com/jakebytes)
