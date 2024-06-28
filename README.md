@@ -1,7 +1,7 @@
-### Hey - my name's Jake!
+### Hey - my name's Jake
 
-I'm a *multimedia artist* that's learning how to code.  
-I'm currently interning as a *web developer* for a site that helps STEM students find jobs!  
+I'm a *multimedia artist* that's learning how to code!  
+I'm currently interning as a *web developer* for a site that helps STEM students find jobs.  
 
 [my resume](https://github.com/jakebytes/jakebytes/blob/main/resume.md)  
 
