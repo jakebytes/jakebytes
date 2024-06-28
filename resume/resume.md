@@ -1,5 +1,5 @@
 # JAKE H. BLACK
-----------------------------------------
+--------------------------------------------------
 
 ### EDUCATION  
 
@@ -9,14 +9,14 @@ Delta State University - Cleveland, MS
 **AS — Computer Science** (*currently obtaining*)  
 Santa Fe Community College - Santa Fe, NM  
 
-----------------------------------------
+--------------------------------------------------
 
 ### SKILLS (*most to least proficient*)  
 
 **Tech:** HTML/CSS, Python, Java, SQL, and JavaScript  
 **Multimedia:** Photoshop, Illustrator, Premiere Pro, and After Effects  
 
-----------------------------------------
+--------------------------------------------------
 
 ### EXPERIENCE
 
@@ -38,7 +38,7 @@ Part-time Assistant (2022–24)
 - Patching or replacing dry-wall
 - Interior/exterior house painting  
 
-----------------------------------------
+--------------------------------------------------
 
 ### CONTACTS 
 
