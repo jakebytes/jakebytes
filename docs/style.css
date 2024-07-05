@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(15, 15, 15);
+  font-family: Verdana, sans-serif;
+  font-size: 1em;
+  color: rgb(245, 245, 245);
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.h-line { 
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: rgb(192, 192, 192);
+  width: 60%;
+}
